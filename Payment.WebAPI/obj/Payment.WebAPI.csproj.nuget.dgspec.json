@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macintosh/OcelotAPIGatewaySample/Payment.WebAPI/Payment.WebAPI.csproj": {}
+    "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\Payment.WebAPI.csproj": {}
   },
   "projects": {
-    "/Users/macintosh/OcelotAPIGatewaySample/Payment.WebAPI/Payment.WebAPI.csproj": {
+    "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\Payment.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macintosh/OcelotAPIGatewaySample/Payment.WebAPI/Payment.WebAPI.csproj",
+        "projectUniqueName": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\Payment.WebAPI.csproj",
         "projectName": "Payment.WebAPI",
-        "projectPath": "/Users/macintosh/OcelotAPIGatewaySample/Payment.WebAPI/Payment.WebAPI.csproj",
-        "packagesPath": "/Users/macintosh/.nuget/packages/",
-        "outputPath": "/Users/macintosh/OcelotAPIGatewaySample/Payment.WebAPI/obj/",
+        "projectPath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\Payment.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\fujin\\.nuget\\packages\\",
+        "outputPath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/macintosh/.config/NuGet/NuGet.Config"
+          "C:\\Users\\fujin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -37,24 +36,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -71,7 +58,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

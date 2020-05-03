@@ -1,32 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macintosh/OcelotAPIGatewaySample/OcelotAPIGateway/OcelotAPIGateway.csproj": {}
+    "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\OcelotAPIGateway.csproj": {}
   },
   "projects": {
-    "/Users/macintosh/OcelotAPIGatewaySample/OcelotAPIGateway/OcelotAPIGateway.csproj": {
+    "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\OcelotAPIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macintosh/OcelotAPIGatewaySample/OcelotAPIGateway/OcelotAPIGateway.csproj",
+        "projectUniqueName": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
         "projectName": "OcelotAPIGateway",
-        "projectPath": "/Users/macintosh/OcelotAPIGatewaySample/OcelotAPIGateway/OcelotAPIGateway.csproj",
-        "packagesPath": "/Users/macintosh/.nuget/packages/",
-        "outputPath": "/Users/macintosh/OcelotAPIGatewaySample/OcelotAPIGateway/obj/",
+        "projectPath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
+        "packagesPath": "C:\\Users\\fujin\\.nuget\\packages\\",
+        "outputPath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/macintosh/.config/NuGet/NuGet.Config"
+          "C:\\Users\\fujin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -37,36 +36,24 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
           "dependencies": {
             "IdentityServer4.AccessTokenValidation": {
               "target": "Package",
-              "version": "[2.7.0, )"
-            },
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.0.1, )"
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            },
             "Ocelot": {
               "target": "Package",
-              "version": "[13.5.2, )"
+              "version": "[15.0.6, )"
             },
             "Ocelot.Cache.CacheManager": {
               "target": "Package",
-              "version": "[13.5.2, )"
+              "version": "[15.0.6, )"
             }
           },
           "imports": [
@@ -79,7 +66,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
