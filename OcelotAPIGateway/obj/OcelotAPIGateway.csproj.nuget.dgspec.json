@@ -42,11 +42,6 @@
               "target": "Package",
               "version": "[3.0.1, )"
             },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Ocelot": {
               "target": "Package",
               "version": "[15.0.6, )"

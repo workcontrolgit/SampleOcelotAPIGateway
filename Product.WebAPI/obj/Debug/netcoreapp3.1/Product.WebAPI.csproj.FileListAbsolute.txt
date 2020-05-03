@@ -27,7 +27,6 @@ C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\bin\Debug\netcoreapp3.1\Sys
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.csprojAssemblyReference.cache
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.csproj.CoreCompileInputs.cache
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.AssemblyInfoInputs.cache
@@ -37,3 +36,5 @@ C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Pro
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.pdb
 C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\Product.WebAPI.genruntimeconfig.cache
+C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Product.WebAPI.StaticWebAssets.Manifest.cache
+C:\apps\ocelot\SampleOcelotAPIGateway\Product.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Product.WebAPI.StaticWebAssets.xml

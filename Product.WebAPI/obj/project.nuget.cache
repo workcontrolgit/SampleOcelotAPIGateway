@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "N9wV6MuKPpBlNYHK3cCiXvl7UrS851j7nFgWfQrX3bsJhPhQQAFpLD7bDjdBKYgxSLmxN2q1FkY8wzaCMcVE4A==",
+  "dgSpecHash": "5eKEHseHqhaJxm9kJGMcYboQzoSHFB8FoJ9t797z8tSvgu/oMUgEvGwLydHx2rDGDZT1cqjbxOJg/EbE4eoEgg==",
   "success": true,
   "projectFilePath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Product.WebAPI\\Product.WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\2.2.0\\microsoft.aspnetcore.razor.language.2.2.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",

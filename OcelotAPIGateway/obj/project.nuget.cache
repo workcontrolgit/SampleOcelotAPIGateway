@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tyDOxfSvdi9DEQVv6fYxb3yLm6m2yL7bYqd1QWm2jGPPibRhQSUY4NxQeuOWXt2Y7Kn1E69+ViiQl3+ci23mOg==",
+  "dgSpecHash": "UmLftAJkxzh66rV7A9Mn45NezEGTIT0Dn54aOMi3tt72sa6IRNdLTy0uyBNPdPujH3NHWsN8WODwSzQSLmLnpg==",
   "success": true,
   "projectFilePath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\OcelotAPIGateway\\OcelotAPIGateway.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,6 @@
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.1.1\\microsoft.aspnetcore.middlewareanalysis.3.1.1.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
-    "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",

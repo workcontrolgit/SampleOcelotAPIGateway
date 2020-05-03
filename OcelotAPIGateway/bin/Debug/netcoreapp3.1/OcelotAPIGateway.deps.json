@@ -25,7 +25,6 @@
       "OcelotAPIGateway/1.0.0": {
         "dependencies": {
           "IdentityServer4.AccessTokenValidation": "3.0.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Ocelot": "15.0.6",
           "Ocelot.Cache.CacheManager": "15.0.6",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
@@ -482,7 +481,6 @@
           "lib/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.2.0": {},
       "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.Configuration/2.0.0": {
         "dependencies": {
@@ -2554,13 +2552,6 @@
       "sha512": "sha512-t8vDVyivm/rnWvzvmVKGJUf7w8Mz1C4T3qnPAm0WyEU6LRt4WdLu4k1g8jVQ4qZTR7NDzv2DR0F2VSjZvkQdtQ==",
       "path": "microsoft.aspnetcore.mvc.newtonsoftjson/3.1.1",
       "hashPath": "microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.Razor.Design/2.2.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-VLWK+ZtMMNukY6XjxYHc7mz33vkquoEzQJHm/LCF5REVxIaexLr+UTImljRRJBdUDJluDAQwU+59IX0rFDfURA==",
-      "path": "microsoft.aspnetcore.razor.design/2.2.0",
-      "hashPath": "microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

@@ -28,7 +28,6 @@ C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\N
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\Ocelot.Cache.CacheManager.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\OcelotAPIGateway.csprojAssemblyReference.cache
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\OcelotAPIGateway.csproj.CoreCompileInputs.cache
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
@@ -47,3 +46,5 @@ C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\S
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\OcelotAPIGateway.StaticWebAssets.Manifest.cache
+C:\apps\ocelot\SampleOcelotAPIGateway\OcelotAPIGateway\obj\Debug\netcoreapp3.1\staticwebassets\OcelotAPIGateway.StaticWebAssets.xml

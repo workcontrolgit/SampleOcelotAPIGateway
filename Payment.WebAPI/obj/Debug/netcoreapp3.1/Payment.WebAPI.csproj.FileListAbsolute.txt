@@ -36,4 +36,5 @@ C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\Pay
 C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\Payment.WebAPI.dll
 C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\Payment.WebAPI.pdb
 C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\Payment.WebAPI.genruntimeconfig.cache
-C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\Payment.WebAPI.csprojAssemblyReference.cache
+C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Payment.WebAPI.StaticWebAssets.Manifest.cache
+C:\apps\ocelot\SampleOcelotAPIGateway\Payment.WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\Payment.WebAPI.StaticWebAssets.xml

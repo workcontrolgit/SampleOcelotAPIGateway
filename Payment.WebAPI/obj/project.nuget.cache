@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "bGtcEiddkquYHEqxBsZK7xaSz6AGQeCAJG4ek4wjZW98BUDxTwJvnUDIv6uu7LKMfTReB2OOc+wE1X7IFKYmhA==",
+  "dgSpecHash": "xFjyw+If5gdh+PD8jsPeKMioYU2noFz06SEgXPgaT3X8s1845Q6mMOPXwUpv3VITXTPO6Gy7knWBPXILwqlkew==",
   "success": true,
   "projectFilePath": "C:\\apps\\ocelot\\SampleOcelotAPIGateway\\Payment.WebAPI\\Payment.WebAPI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\2.2.0\\microsoft.aspnetcore.razor.language.2.2.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
     "C:\\Users\\fujin\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",
